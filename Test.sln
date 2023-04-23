@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test.vcxproj", "{D102B087-7E14-4A20-99B2-07FA968F4D43}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccelStepper-1.64", "Libraries\AccelStepper\1.64\AccelStepper\AccelStepper-1.64.vcxitems", "{46C115BB-2309-473A-961D-4E1074CEDE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM.Build.0 = Debug|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x64.ActiveCfg = Debug|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x64.Build.0 = Debug|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x64.Deploy.0 = Debug|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x86.ActiveCfg = Debug|x86
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x86.Build.0 = Debug|x86
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Debug|x86.Deploy.0 = Debug|x86
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM.ActiveCfg = Release|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM.Build.0 = Release|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM.Deploy.0 = Release|ARM
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM64.Build.0 = Release|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|ARM64.Deploy.0 = Release|ARM64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x64.ActiveCfg = Release|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x64.Build.0 = Release|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x64.Deploy.0 = Release|x64
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x86.ActiveCfg = Release|x86
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x86.Build.0 = Release|x86
+		{D102B087-7E14-4A20-99B2-07FA968F4D43}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331D4FAB-C025-4EAB-95DD-C390DA1BFBF2}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Libraries\AccelStepper\1.64\AccelStepper\AccelStepper-1.64.vcxitems*{46c115bb-2309-473a-961d-4e1074cede31}*SharedItemsImports = 9
+		Libraries\AccelStepper\1.64\AccelStepper\AccelStepper-1.64.vcxitems*{d102b087-7e14-4a20-99b2-07fa968f4d43}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
